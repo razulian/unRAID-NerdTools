@@ -3,7 +3,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "NerdTools">
 <!ENTITY author    "UnRAIDES">
-<!ENTITY version   "2022.11.01">
+<!ENTITY version   "2022.11.13">
 <!ENTITY md5       "5cd31bc67b3b3fb0f32e4e8a6c89216c">
 <!ENTITY launch    "Settings/&name;">
 <!ENTITY github    "razulian/unRAID-&name;">
