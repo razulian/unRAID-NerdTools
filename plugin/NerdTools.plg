@@ -6,7 +6,7 @@
 <!ENTITY version   "2022.11.01">
 <!ENTITY md5       "5cd31bc67b3b3fb0f32e4e8a6c89216c">
 <!ENTITY launch    "Settings/&name;">
-<!ENTITY github    "UnRAIDES/unRAID-&name;">
+<!ENTITY github    "razulian/unRAID-&name;">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/main/plugin/&name;.plg">
 <!ENTITY plgPATH   "/boot/config/plugins/&name;">
 <!ENTITY plgNAME   "&name;-&version;-x86_64-1">
