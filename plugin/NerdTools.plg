@@ -4,7 +4,7 @@
 <!ENTITY name      "NerdTools">
 <!ENTITY author    "UnRAIDES">
 <!ENTITY version   "2022.11.13">
-<!ENTITY md5       "f2cacd4a5ca27af82210c736894044f1">
+<!ENTITY md5       "759de904dbddf612c9a2168178f84f3f">
 <!ENTITY launch    "Settings/&name;">
 <!ENTITY github    "razulian/unRAID-&name;">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/main/plugin/&name;.plg">
@@ -13,7 +13,7 @@
 <!ENTITY emhttp    "/usr/local/emhttp/plugins/&name;">
 ]>
 
-<PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" min="6.11">
+<PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" min="6.11.3">
 
 <CHANGES>
 ##&name;
